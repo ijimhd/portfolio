@@ -1,0 +1,36 @@
+body {
+    background-color:black;
+}
+
+h1,
+h2{
+    color:white;
+    text-align:center;
+    font-family: 'Rajdhani';
+    font-size:40px;
+    margin-bottom:0px;
+}
+
+h2{
+    font-size:27px;
+    margin-bottom:30px;
+    margin-top:30px;
+}
+
+
+img{
+    height:280px;
+    width:420px;
+    padding:2px;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+div{
+    height:2290px;
+    width:1720px;
+    margin: auto;
+}
