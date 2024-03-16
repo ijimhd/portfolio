@@ -25,8 +25,8 @@ h2{
 
 
 img{
-    height:280px;
-    width:420px;
+    height:15vw;
+    width:22.5vw;
     padding:2px;
 }
 
@@ -36,5 +36,9 @@ a{
 }
 
 #wrapper{
+    display:flex;
     text-align:center;
-   }
+    max-width:max-content;
+    margin: 0 auto;
+}
+
