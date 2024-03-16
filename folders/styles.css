@@ -1,4 +1,4 @@
-* {
+*{
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
@@ -13,12 +13,12 @@ h2{
     color:white;
     text-align:center;
     font-family: 'Acumin Pro', sans-serif;
-    font-size:40px;
+    font-size:5vw;
     margin-bottom:0px;
 }
 
 h2{
-    font-size:27px;
+    font-size:2vw;
     margin-bottom:30px;
     margin-top:30px;
 }
@@ -35,8 +35,6 @@ a{
     text-decoration:none;
 }
 
-div{
-    max-height:2290px;
-    max-width:1720px;
-    margin: 0 auto;
-}
+#wrapper{
+    text-align:center;
+   }
