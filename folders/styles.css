@@ -4,11 +4,9 @@
             box-sizing: border-box;
     margin:0;
     padding:0;
-}
-
-body {
     background-color:black;
 }
+
 
 h1,
 h2{
@@ -18,6 +16,7 @@ h2{
     font-size:13vw;
     margin:15px;
 }
+
 
 h2{
     font-size:6vw;
@@ -32,10 +31,12 @@ img{
     padding:2px;
 }
 
+
 a{
     color:white;
     text-decoration:none;
 }
+
 
 #wrapper{
     display:flex;
@@ -62,6 +63,7 @@ div{
         font-size:2vw;
     }
 }   
+
 
 @media screen and (min-width: 700px) and (max-width:900px){
     img{
