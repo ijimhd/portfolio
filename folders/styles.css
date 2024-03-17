@@ -48,7 +48,8 @@ div{
     width:100vw;
 }
 
-@media screen and (min-width: 600px) {
+
+@media screen and (min-width: 600px){
     img{
         height:15vw;
         width:22.5vw;
@@ -61,3 +62,17 @@ div{
         font-size:2vw;
     }
 }   
+
+@media screen and (min-width: 700px) and (max-width:900px){
+    img{
+        height:30vw;
+        width:45vw;
+    }
+    h1{
+        font-size:7vw;
+    }
+
+    h2{
+        font-size:4vw;
+    }
+}
